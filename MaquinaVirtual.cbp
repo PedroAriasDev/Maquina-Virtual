@@ -31,11 +31,22 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="funcionesAdicionales.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcionesAdicionales.h" />
 		<Unit filename="mVTipos.h" />
 		<Unit filename="mVfuncionesTiposProtos.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="mvFunciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="operandos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="operandos.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
